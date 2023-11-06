@@ -27,7 +27,7 @@ Criar uma classe generica que represente um herói de uma aventura e que possua 
 
 além disso, deve ter um método chamado atacar que deve atender os seguientes requisitos:
 
-se mago -> no ataque exibir (usou magia)
-se guerreiro -> no ataque exibir (usou espada)
-se monge -> no ataque exibir (usou artes marciais)
-se ninja -> no ataque exibir (usou shuriken)
+* se mago -> no ataque exibir (usou magia)</br>
+* se guerreiro -> no ataque exibir (usou espada)</br>
+* se monge -> no ataque exibir (usou artes marciais)</br>
+* se ninja -> no ataque exibir (usou shuriken)
